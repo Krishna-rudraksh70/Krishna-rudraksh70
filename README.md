@@ -1,30 +1,29 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A aspiring software engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-rudraksh70&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-rudraksh70" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-rudraksh70" alt="krishna-rudraksh70" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Tic Tac Toe using ML**
-
-- 🌱 I’m currently learning **Machine learning**
-
-- 👯 I’m looking to collaborate on **Any tech project**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/oklama_kri_ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oklama_kri_ru" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-rudraksh70&show_icons=true&locale=en&layout=compact" alt="krishna-rudraksh70" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-rudraksh70&show_icons=true&locale=en" alt="krishna-rudraksh70" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-rudraksh70&" alt="krishna-rudraksh70" /></p>
-<h1>Myself</h1>
-My name is Krishna and I am an engineering graduate specializing in Computer Science and Technology with a CGPA above 7 Along with my degree coursework I have completed courses in C++ frontend development graphic design UI UX design and various other development technologies These skills have helped me develop automation solutions for day to day tasks work on projects and contribute to open source initiatives Additionally I have experience in leading team projects and managing them effectively
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hi_there__0"></a>Hi there 👋</h1>
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_____1"></a>𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">I’m Krishna, an engineering graduate specializing in Computer technology. Along with my coursework in Java(Core), FrontEnd development, UI|UX design and various development technologies.I love building automation tasks and open Source initiatives.</p>
+<h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Im_currently_working_on_4"></a>I’m currently working on</h2>
+<ul>
+<li class="has-line-data" data-line-start="6" data-line-end="7">[Portfolio|Dossier]: [Own personal portfolio website build using ReactJS, Tailwind]</li>
+<li class="has-line-data" data-line-start="7" data-line-end="8">[Portfolio Card]: [Own portfolio Digital Card in Adobe XD]</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">[Learning/Exploring] [Java Full Stack (Spring Boot), JUnit, Color grading …]</li>
+</ul>
+<h2 class="code-line" data-line-start=10 data-line-end=11 ><a id="Recently_Done_10"></a>Recently Done</h2>
+<ul>
+<li class="has-line-data" data-line-start="12" data-line-end="13">[AI Captain]: [Web Application for text analysis built with ReactJS, Python(Flask)]</li>
+<li class="has-line-data" data-line-start="13" data-line-end="15">[GhostSurf]: [Web Browser with Forget me when leave implement, built in ReactNative]</li>
+</ul>
+<h2 class="code-line" data-line-start=15 data-line-end=16 ><a id="Interested_in_15"></a>Interested in</h2>
+<ul>
+<li class="has-line-data" data-line-start="17" data-line-end="18">[Java, SpringBoot, MicroService, Docker ]</li>
+<li class="has-line-data" data-line-start="18" data-line-end="20">[Photography, Music, Reading, AudioVisual Content …]</li>
+</ul>
+<h2 class="code-line" data-line-start=20 data-line-end=21 ><a id="Handing_on_20"></a>Handing on</h2>
+<ul>
+<li class="has-line-data" data-line-start="22" data-line-end="23"><strong>Languages:</strong> [Java, C++, HTML, CSS, Javascript, SQL, Python]</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24"><strong>Frameworks/Libraries:</strong> [Bootstrap, Tailwind, React, Expo]</li>
+<li class="has-line-data" data-line-start="24" data-line-end="26"><strong>Tools:</strong> [Git, Adobe Creative Cloud, Figma, Filmora, Jira, Office Suits, UNIX]</li>
+</ul>
+<h2 class="code-line" data-line-start=26 data-line-end=27 ><a id="My_GitHub_Stats_26"></a>My GitHub Stats</h2>
+<p class="has-line-data" data-line-start="28" data-line-end="29"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-rudraksh70&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
+<h2 class="code-line" data-line-start=30 data-line-end=31 ><a id="Contributions_30"></a>Contributions</h2>
+<p class="has-line-data" data-line-start="32" data-line-end="33"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Krishna-rudraksh70&amp;theme=dark" alt="GitHub Streak"></a></p>
